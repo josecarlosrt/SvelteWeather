@@ -1,7 +1,5 @@
 <script>
 	import Weather from './Weather.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcome_fallback from '$lib/images/svelte-welcome.png';
 </script>
 
 <svelte:head>
@@ -25,7 +23,7 @@
 		flex: 1;
 	}
 
-	h1, h2 {
+	h2 {
 		width: 100%;
 	}
 </style>

@@ -1,4 +1,20 @@
-# create-svelte
+Svelte Weather APP - API and Routing Test Project
+This is a small Svelte project that demonstrates how to use APIs and routing in a Svelte application. It uses the fetch API to retrieve data from a sample API and displays it on the screen.
+
+
+API Usage - WeatherAPI.com
+This project uses a sample API to retrieve weather data. The fetch API is used to make a GET request to the API endpoint and retrieve the data. The retrieved data is then displayed on the screen.
+
+
+Getting Started
+To get started with this project, you'll need to follow these steps:
+
+Clone the repository to your local machine using git clone.
+Install the dependencies by running npm install.
+Start the development server by running npm run dev.
+Open your web browser and navigate to http://localhost:5000 to view the application.
+Project Structure
+This project has the following structure:
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
